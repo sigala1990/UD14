@@ -32,6 +32,14 @@ MySql
 
 ![UD14act08](https://user-images.githubusercontent.com/103040138/165127923-fb40f281-5785-4573-8b69-5bad522a530e.png)
 
+<h2>Actividad 09</h2>
+
+![UD14act9](https://user-images.githubusercontent.com/9555509/165142208-9029cc19-0977-48f1-b167-6a11b69ecf02.png)
+
+<h2>Actividad 10</h2>
+
+![UD14act10](https://user-images.githubusercontent.com/9555509/165142218-b091c99f-38a9-462c-94bf-286ea8c1da0b.png)
+
 
 <h2>Actividad 11</h2>
 
