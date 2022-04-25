@@ -15,6 +15,7 @@ MySql
 
 <h2>Actividad 07</h2>
 
-![image](https://user-images.githubusercontent.com/89861246/165093367-d4dbcdea-10bf-47d5-974a-130368864d2f.png)
+![image](https://user-images.githubusercontent.com/89861246/165094023-dac1c1b2-099a-45d9-ab5e-ca629dae291f.png)
+
 
 
