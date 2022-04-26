@@ -2,7 +2,7 @@
 MySql
 
 <ul>
-  <li>- [ ] Isidre: 4, 8, 12</li>
+  <li>- [X] Isidre: 4, 8, 12</li>
   <li>- [X] Veronika: 3, 7, 11</li>
   <li>- [X] Adri: 5, 6, 9, 10</li>
   </ul>
@@ -44,4 +44,10 @@ MySql
 <h2>Actividad 11</h2>
 
 ![image](https://user-images.githubusercontent.com/89861246/165110861-b8ca31e1-e04f-41f1-80a9-cde228fbd69b.png)
+
+
+<h2>Actividad 12</h2>
+
+![image](https://user-images.githubusercontent.com/89861246/165244636-a8f8768f-6c1c-4d7f-982f-67ee281392f6.png)
+
 
